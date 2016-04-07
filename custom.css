@@ -22,6 +22,17 @@ ul:hover{
 .img-responsive {
  display: block;
  height: auto;
- max-width: 85%;
- max-height: 85%
+ max-width: 70%;
+ max-height: 70%
+}
+.big{
+    max-width: 35%;
+ max-height: 65%
+}
+
+
+.position{
+    position:absolute; 
+    top:0px;
+    
 }
