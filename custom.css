@@ -17,4 +17,11 @@ a:hover {
 }
 ul:hover{
     color:black;
+      background-color: #def ;
+}
+.img-responsive {
+ display: block;
+ height: auto;
+ max-width: 85%;
+ max-height: 85%
 }
