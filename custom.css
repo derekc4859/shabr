@@ -6,7 +6,7 @@ body{
    background-color: rgba(245, 245, 245, 0.4);
 }
 .phrase{
-    font-size:12.56px
+    font-size:12px;
 }
 a{
     color:black;
@@ -26,11 +26,38 @@ ul:hover{
  max-height: 70%
 }
 .big{
-    max-width: 35%;
- max-height: 65%
+max-width: 30%;
+ max-height: 60%;
 }
 
 .gallery{
 max-width: 30%;
  max-height: 30%
+}
+p{
+font-size:16px;
+}
+h4{
+    font-size:20px;
+}
+@media only screen and (max-width: 1740px)  {
+    .TitleDetail{
+      font-size: 7px;
+    }
+    .navSize{
+    font-size:18px;
+    }
+    p{
+   font-size:14px;
+    }
+    h2{
+        font-size:20px;
+    }
+    h4{
+        font-size:16.5px;
+    }
+}
+
+.ContactAlign{
+    text-align: center;
 }
